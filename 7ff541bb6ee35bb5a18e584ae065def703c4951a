@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d7feebb5_fb0df426",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020534
+      },
+      "writtenOn": "2022-09-28T17:26:57Z",
+      "side": 1,
+      "message": "Great work!",
+      "revId": "7ff541bb6ee35bb5a18e584ae065def703c4951a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f0afcc5f_4ac3fe28",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1020534
+      },
+      "writtenOn": "2022-09-28T17:26:57Z",
+      "side": 1,
+      "message": "Please capitalize first letters of first and last name.",
+      "revId": "7ff541bb6ee35bb5a18e584ae065def703c4951a",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
